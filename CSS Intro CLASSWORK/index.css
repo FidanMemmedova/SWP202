@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.portfolio{
+    border-radius: 30px;
+    border:2px solid green;
+    width: 300px;
+    margin: auto;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.portfolio img{
+width: 100px;
+height: 100px;
+border-radius: 50%;
+}
+.portfolio button{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    width: 150px;
+    border: none;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.portfolio h1{
+    margin-top: 10px;
+}
+.portfolio .firstp{
+    margin-top: 10px;
+}
