@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section .coffeeCard {
+  text-align: center;
+}
+section .coffeeCard img {
+  width: 100%;
+}
+section .coffeeCard a {
+  color: red;
+  text-decoration: none;
+}
